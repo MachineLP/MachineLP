@@ -5,9 +5,9 @@
 </p>
 
 ### My Social Media 💬
-- CSDN: [@MachineLP](http://blog.csdn.net/u014365862/article/details/78422372)
-- Kaggle Profile: [@MachineLP](https://www.kaggle.com/MachineLP)
-- Email: MachineLP@163.com
+-   CSDN: [@MachineLP](http://blog.csdn.net/u014365862/article/details/78422372)
+- Kaggle: [@MachineLP](https://www.kaggle.com/MachineLP)
+-  Email: MachineLP@163.com
 
 
 ###
