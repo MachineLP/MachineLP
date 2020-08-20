@@ -5,12 +5,12 @@
 </p>
 
 <a href="https://github.com/MachineLP">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=chizhu&show_icons=truet&include_all_commits=True&hide=contribs" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=MachineLP&show_icons=truet&include_all_commits=True&hide=contribs" alt="Anurag's github stats" />
 </a>
 
 <a href="https://github.com/MachineLP">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=chizhu&layout=compact" />
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=MachineLP&layout=compact" />
 </a>
 
 ###
