@@ -16,12 +16,3 @@
 ###
 - 🌱 I’m currently learning ...
 
-
-<a href="https://github.com/MachineLP/TextMatch">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=MachineLP&repo=TextMatch&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/MachineLP/MachineLP-CodeFun">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=MachineLP&repo=MachineLP-CodeFun&theme=tokyonight" />
-</a>
-
