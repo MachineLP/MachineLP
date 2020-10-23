@@ -17,9 +17,11 @@
 - 🌱 I’m currently learning ...
 
 
-<img src="https://user-images.githubusercontent.com/9102141/87268895-3e0d0780-c4fe-11ea-849e-6140b7e0d4de.gif" width = "400" height = "260" alt="图片名称" 
+<img src="https://user-images.githubusercontent.com/9102141/87268895-3e0d0780-c4fe-11ea-849e-6140b7e0d4de.gif" width = "200" height = 130" alt="图片名称" 
 align=center>
-<img src="https://user-images.githubusercontent.com/9102141/87268895-3e0d0780-c4fe-11ea-849e-6140b7e0d4de.gif" width = "400" height = "260" alt="图片名称" 
+<img src="https://user-images.githubusercontent.com/9102141/87268895-3e0d0780-c4fe-11ea-849e-6140b7e0d4de.gif" width = "200" height = 130" alt="图片名称" 
 align=center>
-<img src="https://user-images.githubusercontent.com/9102141/87268895-3e0d0780-c4fe-11ea-849e-6140b7e0d4de.gif" width = "400" height = "260" alt="图片名称" 
+<img src="https://user-images.githubusercontent.com/9102141/87268895-3e0d0780-c4fe-11ea-849e-6140b7e0d4de.gif" width = "200" height = 130" alt="图片名称" 
+align=center>
+<img src="https://user-images.githubusercontent.com/9102141/87268895-3e0d0780-c4fe-11ea-849e-6140b7e0d4de.gif" width = "200" height = 130" alt="图片名称" 
 align=center>
